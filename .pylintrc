@@ -1,0 +1,3 @@
+# aca se debe indicar que cargue el plugin que acaba de ser instalado
+
+load-plugins=pylint-django
